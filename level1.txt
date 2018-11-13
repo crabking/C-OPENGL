@@ -1,0 +1,212 @@
+
+
+#ground
+t Textures\SeamlessSand.bmp
+m Models\Terrain.obj
+p 0.0 0.0 0.0
+r 0 -90 0
+s 4.0
+
+#runway
+t Textures\Road.bmp
+m Models\Road.obj
+p 0.02 0.0 0.0 
+r 0 0 0
+s 0.25	
+
+#plane1
+t Textures\P51.bmp
+m Models\P51.obj
+p 0.02 10.0 0.0 
+r 0 90 0 
+s 0.25
+
+#plane2
+t Textures\P51.bmp
+m Models\P51.obj
+p 0.01 -18.0 -27.0
+r 0 0 0
+s 0.20
+
+#plane3
+t Textures\P51.bmp
+m Models\P51.obj
+p 0.01 -14.0 -27.0
+r 0 0 0
+s 0.20
+
+#plane4
+t Textures\P51.bmp
+m Models\P51.obj
+p 0.01 -10.0 -27.0
+r 0 0 0
+s 0.20
+
+#plane5
+t Textures\P51.bmp
+m Models\P51.obj
+p 0.01 -6.0 -27.0
+r 0 0 0
+s 0.20
+
+#radiotower
+t Textures\TriangulatedTexture.bmp
+m Models\TriangulatedTexture.obj
+p 0.0 -25.0 -30.0
+r 0 0 0 
+s 0.20
+
+#terminal
+t Textures\TerminalTriangulatedNew.bmp
+m Models\TerminalTriangulatedNew.obj
+p 0.0 2.0 -27.0 
+r 0 -90 0 
+s 0.5
+
+
+#hangar1
+t Textures\Hangar.bmp
+m Models\Hangar.obj
+p 0.01 -18.0 -27.0
+r 0 0 0
+s 0.20
+
+#hangar2
+t Textures\Hangar.bmp
+m Models\Hangar.obj
+p 0.01 -14.0 -27.0
+r 0 0 0
+s 0.20
+
+#hangar3
+t Textures\Hangar.bmp
+m Models\Hangar.obj
+p 0.01 -10.0 -27.0
+r 0 0 0
+s 0.20
+
+#hangar4
+t Textures\Hangar.bmp
+m Models\Hangar.obj
+p 0.01 -6.0 -27.0
+r 0 0 0
+s 0.20
+
+# house1
+t Textures\House.bmp
+m Models\House.obj
+p 0.01 10.0 -30.0
+r 0 -90 0
+s 0.5
+
+# house2
+t Textures\House.bmp
+m Models\House.obj
+p 0.01 14.0 -30.0
+r 0 -90 0
+s 0.5
+
+# house3
+t Textures\House.bmp
+m Models\House.obj
+p 0.01 18.0 -30.0
+r 0 -90 0
+s 0.5
+
+#barrack
+t Textures\Barracks.bmp 
+m Models\Barracks.obj
+p 0.1 35.0 -24.0
+r 0 90 0
+s 0.7
+
+#heli	
+t Textures\m24.bmp
+m Models\m24.obj
+p 0.02 -15.0 -18.0
+r 0 90 0 
+s 0.020
+
+#humve1
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 42.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve2
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 40.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve3
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 38.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve4
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 36.0 -10.0
+r 0 0 0 
+s 0.015
+
+#humve5
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 34.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve6
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 32.0 -10.0
+r 0 0 0
+s 0.015	
+
+#humve7
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 42.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve8
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 40.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve9
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 38.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve10
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 36.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve11
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 34.0 -10.0
+r 0 0 0
+s 0.015
+
+#humve12
+t Textures\humve.bmp
+m Models\humve.obj
+p 0.3 32.0 -10.0
+r 0 0 0
+s 0.015
